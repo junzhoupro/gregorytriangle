@@ -12,8 +12,8 @@
 This project presents quadrature rules for the space of functions underlying triangular Gregory patches, also called Gregory triangles. We provide numerical and where available symbolic quadrature rules not only for the space spanned by the fifteen polynomial/rational functions associated with Gregory triangles, but also the derived spaces including those spanned by the derivatives, products, and products of derivatives of these functions. Among other results, we show that the four-node Hammer-Stroud quadrature for cubic polynomials over triangles is also exact for the fifteen basis functions of Gregory triangles. The presented quadratures for the derived (isogeometric) spaces open up the possibility to adopt Gregory triangles in numerical simulations.
 
 <br>
-        [Paper link](https://www.sciencedirect.com/science/article/pii/S0377042724003984 "Numerical Quadratures for Gregory Triangles")
-        
+        <a href="https://www.sciencedirect.com/science/article/pii/S0377042724003984"><strong>Paper link</strong></a>
+      
 <br>
 
 ## Software 
